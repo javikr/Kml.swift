@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		2DD466467A2064CB6888EEF7 /* Pods_KmlTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F78BCFD6C1F190185E2FA6C /* Pods_KmlTests.framework */; };
 		30175AFC733F3AD031F32C0B /* Pods_Kml.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0597E1AC11EBC60AF4E981A1 /* Pods_Kml.framework */; };
+		59027DD42093A91700C76639 /* Noruega.kmz in Resources */ = {isa = PBXBuildFile; fileRef = 59027DD32093A91700C76639 /* Noruega.kmz */; };
+		59027DD62093A9EF00C76639 /* Noruega.kml in Resources */ = {isa = PBXBuildFile; fileRef = 59027DD52093A9EE00C76639 /* Noruega.kml */; };
 		784DBC3C1B820575007748FB /* PlacemarkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 784DBC3A1B820575007748FB /* PlacemarkViewController.swift */; };
 		784DBC3D1B820575007748FB /* PlacemarkViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 784DBC3B1B820575007748FB /* PlacemarkViewController.xib */; };
 		784DBC3F1B82FBD4007748FB /* sample.kml in Resources */ = {isa = PBXBuildFile; fileRef = 784DBC3E1B82FBD4007748FB /* sample.kml */; };
@@ -40,6 +42,8 @@
 		1BCF581613B16827A06F26DF /* Pods-KmlTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KmlTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-KmlTests/Pods-KmlTests.debug.xcconfig"; sourceTree = "<group>"; };
 		2CF8808E32141D98E11ECE1C /* Pods-Kml.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Kml.release.xcconfig"; path = "Pods/Target Support Files/Pods-Kml/Pods-Kml.release.xcconfig"; sourceTree = "<group>"; };
 		3F78BCFD6C1F190185E2FA6C /* Pods_KmlTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KmlTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		59027DD32093A91700C76639 /* Noruega.kmz */ = {isa = PBXFileReference; lastKnownFileType = file; path = Noruega.kmz; sourceTree = "<group>"; };
+		59027DD52093A9EE00C76639 /* Noruega.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Noruega.kml; sourceTree = "<group>"; };
 		784DBC3A1B820575007748FB /* PlacemarkViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PlacemarkViewController.swift; path = Examples/Placemark/PlacemarkViewController.swift; sourceTree = "<group>"; };
 		784DBC3B1B820575007748FB /* PlacemarkViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = PlacemarkViewController.xib; path = Examples/Placemark/PlacemarkViewController.xib; sourceTree = "<group>"; };
 		784DBC3E1B82FBD4007748FB /* sample.kml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = sample.kml; sourceTree = "<group>"; };
@@ -153,6 +157,8 @@
 			isa = PBXGroup;
 			children = (
 				784DBC3E1B82FBD4007748FB /* sample.kml */,
+				59027DD32093A91700C76639 /* Noruega.kmz */,
+				59027DD52093A9EE00C76639 /* Noruega.kml */,
 				784DBC381B82050A007748FB /* Examples */,
 				78E3D7C71B815BE000170097 /* AppDelegate.swift */,
 				78E3D7C91B815BE000170097 /* MainViewController.swift */,
@@ -293,7 +299,9 @@
 				78E3D7D21B815BE000170097 /* LaunchScreen.xib in Resources */,
 				78E3D7CF1B815BE000170097 /* Images.xcassets in Resources */,
 				784DBC3D1B820575007748FB /* PlacemarkViewController.xib in Resources */,
+				59027DD42093A91700C76639 /* Noruega.kmz in Resources */,
 				784DBC3F1B82FBD4007748FB /* sample.kml in Resources */,
+				59027DD62093A9EF00C76639 /* Noruega.kml in Resources */,
 				784DBC441B82FE94007748FB /* PathViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -344,9 +352,14 @@
 			files = (
 			);
 			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Kml/Pods-Kml-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/AEXML/AEXML.framework",
+				"${BUILT_PRODUCTS_DIR}/Zip/Zip.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AEXML.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Zip.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -359,9 +372,12 @@
 			files = (
 			);
 			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-KmlTests/Pods-KmlTests-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/AEXML/AEXML.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AEXML.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -400,13 +416,16 @@
 			files = (
 			);
 			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Kml-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 		E170918E23E5362E41D84C7A /* [CP] Check Pods Manifest.lock */ = {
@@ -415,13 +434,16 @@
 			files = (
 			);
 			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-KmlTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */

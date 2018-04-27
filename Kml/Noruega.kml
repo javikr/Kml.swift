@@ -1,0 +1,1507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>Noruega</name>
+  <visibility>1</visibility>
+  <Placemark>
+    <name>Grodås</name>
+    <TimeStamp><when>2016-04-06T22:44:35Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>6.5247162,61.965883</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Trondheim Sentralstasjon</name>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>10.401195,63.436084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Åndalsnes</name>
+    <description>Åndalsnes es el centro administrativo del municipio de Rauma, en el condado de Møre og Romsdal. Åndalsnes está situado a orillas del Romsdalsfjord en la desembocadura del río Rauma, en una de las zonas más bellas de la pintoresca Noruega. La ciudad en sí no es más que una aldea, pero las montañas circundantes y los fiordos se encuentran entre los más grandes de Noruega.
+El río Rauma, famoso por sus salvajes salmones, fue uno de los primeros ríos de Noruega en atraer a los aristócratas británicos y otros extranjeros pescadores al final del siglo 19. Åndalsnes da la bienvenida a cientos de grandes cruceros a su gran puerto cada año, desde 1883.</description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>7.6891646,62.567802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tren Rauma Trondheim-Dombås-Andalsnes</name>
+    <description>La ruta del tren panorámico Rauma Line lo lleva por montañas pintorescas, sobre puentes impresionantes y pasa por el acantilado más alto de Europa, el Trollveggen, que se alza 1,000 metros (3.281 pies) sobre las vías. El Tren de Rauma pasará más despacio por los paisajes más impresionantes y se detendrá en el famoso puente Kylling Bru y en Trollveggen, la pared de montaña perpendicular más grande de Europa, para que puedas hacer fotos.
+El maravilloso río Rauma, de color esmeralda, te acompañará a lo largo de gran parte del recorrido. El carácter del río cambia constantemente — de pronto discurre apaciblemente entre calitas de arena blanca, como se transforma en un torrente salvaje, descendiendo en cascada entre rápidos a velocidad de vértigo. En el tren, las explicaciones se dan en noruego, inglés y alemán, y te proporcionarán un folleto completamente nuevo en el que se describen los mayores atractivos del viaje.</description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.1233744,62.074868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>CENTRO COMERCIAL</name>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>10.393215,63.430037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>PUENTE VIEJO(Gamle Bybro) sobre El Rio Nidelva (3)</name>
+    <description>En la Edad Media, Trondheim se ceñía a los límites de lo que hoy es el centro de la ciudad. Y para mejorar el acceso a la Fortaleza de Kristiansten, en una colina cercana, en 1681 se levantó por primera vez un puente. El que deberías cruzar hoy es de 1861 y es conocido por los lugareños como “la puerta de la felicidad”, un nombre de lo más poético.
+Muy cerca de la zona de almacenes encontramos el Puente Viejo. Fue levantado en 1681 para dar paso al fuerte de Kristiansten y es otro de los lugares más conocidos de Trondheim. Originariamente fue construido en madera sobre pilares de piedra. En ambos extremos existían casetas de vigilancia que llevaban un estricto control sobre todo aquel que cruzaba de un lado a otro del río. Con el paso de los años la estructura se fue reforzando con materiales más resistentes como el hormigón.</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.401623,63.428201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Catedral Nidaros--Nidarosdomen (1)</name>
+    <description>El principal icono de Trondheim es la catedral (luterana) de Nidaros, situada en la parte meridional de la ciudad, junto al río Nid. Nidaros era el nombre con el que se conocía a Trondheim en la Edad Media.
+Esta magnífica catedral de Trondheim es una de las mejores expresiones del gótico noruego, pero tiene reminiscencias románicas. De hecho, se considera esta iglesia como la obra maestra de dicho movimiento artístico y uno de los principales monumentos de Noruega.
+En la catedral de Trondheim descansa el cuerpo de uno de los mayores santos noruegos, San Olaf, por lo que históricamente ha sido un lugar de peregrinaje de innumerables fieles de diferentes rincones de Europa.
+Devastada por varios incendios, entró en crisis con la instauración de la reforma protestante. Fue sometida a diversas y torpes restauraciones que cambiaron su aspecto con el tiempo, hasta que en el siglo XIX el gobierno noruego decidió financiar su restauración hacia su modelo original. En la actualidad, es la única iglesia en Noruega que cuenta con un respaldo financiero del erario público estatal para la conservación y restauración, a diferencia de los demás templos luteranos noruegos, cuya responsabilidad depende de fondos municipales.
+En el siglo XIX y principios del XX fue el templo donde se celebraba la coronación de los monarcas de Noruega, de acuerdo a la constitución de 1814. Después de la abolición de las ceremonias de coronación, la catedral ha sido utilizada como un lugar donde los gobernantes firman sus obligaciones constitucionales. Las joyas de la corona fueron también resguardadas en la catedral hasta 2006.
+ El material de su construcción es piedra esteatita de las inmediaciones de la localidad de Kvikne, al oriente de Trondheim.
+Los incendios castigaron la Catedral de Nidaros durante siglos. El último, en el siglo XVIII, dejó en pie sólo los muros exteriores. La reforma necesaria comenzó en 1900 y acabó en el año 2000, con la creación de la capilla del milenio.
+El rey Olaf murió en una batalla cerca de la ciudad de Trondheim. No se trataba de un rey muy querido y eso provocó que nadie se quisiera hacer cargo de su cuerpo que acabó dentro de un ataúd que tiraron al .La leyenda cuenta que surgió un manantial de aguas curativas en el punto en que se hundió el ataúd y que un año después, lo que surgió fue el propio ataúd. No muy dados a los milagros en aquella época –alrededor de 1031– decidieron que lo mejor era volver a lanzarlo al fiordo. Cinco días después volvió a salir. Al abrir el ataúd, descubrieron que el cuerpo estaba como el primer día, piel rosada y las uñas y el pelo crecido, incluso olía a rosas. Ya era demasiado para volver a tirarlo al fiordo y cambiando por completo de actitud se procedió a sucanonización y enterramiento en un ataúd de plata. Sobre esa tumba se edificó una iglesia de madera. Poco a poco la iglesia fue creciendo hasta lo que es ahora. El estilo gótico de su fachada se debe a un viaje del obispo a Inglaterra en el que descubrió el nuevo estilo arquitectónico y queda encantado con él. A su vuelta mandó derribar gran parte de la catedral para rehacerla, dejando sólo el transepto con su estilo románico anterior. Con la reforma luterana, los reyes de Dinamarca –reyes también de Noruega en ese momento– quitaron el poder a la iglesia. El hecho de que San Olaf hubiera sido nombrado rey de Noruega a perpetuidad tampoco acababa de convencer a los daneses que sacaron sus restos del ataúd de plata, que fundieron para hacer monedas, y los enterraron en un lugar desconocido.
+En 1997 fue inaugurado el Camino del Peregrino, de 926 kilómetros de distancia, recreando la antigua vía de peregrinación establecida entre Oslo, la capital del país, y Trondheim.</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.396906,63.426918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>PALACIO DEL ARZOBISPO (2)</name>
+    <description>Justo al lado de la catedral, en un edificio que se oculta tras una fachada rústica y vetusta está el Palacio del Arzobispo, uno de los complejos arquitectónicos mejore conservados de su época en toda Europa. Se construyó en la segunda mitad del siglo XII y fue la residencia del arzobispo que oficiaba en la catedral hasta mediados del siglo XV. Hoy es un museo bastante interesante donde podrás ver desde las Joyas de la Corona hasta restos arqueológicos encontrados en Trondheim.</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.395318,63.426299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pasear.por. Søndre gate (4)</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.400189,63.431913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pasear por Nordre gate (5)</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.397593,63.431547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pasear. por. Munkegata (6)</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.394572,63.431435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>RESIDENCIA REAL -Stiftsgården (7)</name>
+    <description>la sencilla residencia real que hoy todavía usa la monarquía noruega cuando visita Trondheim.</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.394981,63.43165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Plaza Torvet (8)</name>
+    <description>En Torvet, una de las principales plazas de Trondhein, se erige una ESCULTURA DE ERIKSSON en honor a todos aquellos emigrantes noruegos que partieron rumbo al nuevo mundo.</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.395109,63.43044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Barrio BAKKLANDET (9)</name>
+    <description>Las casas de madera de colores con flores en las ventanas de Bakklandet te llamará la atención en cuanto pongas un pie en Trondheim. Conocida como la ciudad antigua, este rincón cuqui está lleno de edificios pintorescos, cafeterías acogedoras, buenos restaurantes y tiendas monísimas. Tiene un montón de vida… y cuando la veas por ti mismo/a entenderás por qué. Tómate tu tiempo y disfruta del aire relajado que flota en el ambiente. ¡Ah! Y si te atreves prueba el famoso “ascensor” para bicicletas que hay en Trondheim y que te dejará cerca de la fortaleza de Kristiansten.
+Posiblemente los coloridos almacenes de madera que se levantan a orillas del río Nidelva son una de las estampas más conocidas de Trondheim y algo que no deberías perderte. La mayoría de estos edificios son delsiglo XVIII y pasear entre ellos es un verdadero placer. Están un poco por todas partes y su estado de conservación es fantástico porque se siguen usando tanto para usos comerciales (restaurantes, tiendas) como para uso residencial.</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.404883,63.430306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Barrio NEDRE ELVEHAVN (10)</name>
+    <description>El barrio de Nedre Elvehavn en Trondheim hará las delicias de los amantes de la buena comida y de las compras… y también de los amantes de la cerveza artesanal, ya que hay muchos sitios para catarla aquí. Esta zona de edificios industriales de ladrillo se ha reconvertido en un núcleo de tendencia que atrae a los más creativos de la ciudad. Siéntate en una terracita, callejea y no te vayas sin catar más de un plato.</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.41906,63.436824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>CASTILLO.  Kristiansten festning (11)</name>
+    <description>Si eres uno de esos viajeros a los que les gusta disfrutar de las vistas, te recomendamos que cuando visites Trondheim subas hasta la Fortaleza de Kristiansten y alucines. No te dejes engañar por el austero exterior de esta fortificación construida en 1681… Dentro te espera un interesante museo sobre la historia de la región, una zona verde con unas vistas incomparables y muchos rincones para explorar.</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.411063,63.426866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sverresborg Trøndelag Folkemuseum (MUSEO ARTE FOLKLORICO) (12)</name>
+    <description>Los amantes de la historia deberían escaparse un poco a las afueras de Trondheim para perderse en el interesante museo al aire libre que está alrededor de las ruinas del castillo medieval del rey Sverre, en Sverresbord. Es el más grande de este tipo de toda Noruega y te permitirá conocer de primera mano un buen número de construcciones típicas y tradicionales de la región de Trondelag</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.358907,63.419198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>ISLA.  Munkholmen (13)</name>
+    <description>Es Munkholmen, un verdadero remanso de paz al que se llega en ferry de mayo a principios de septiembre</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.382513,63.450951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>UNIVERSIDAD DE TRONDHEIM (14)</name>
+    <description>Detrás de un imponente edifico de piedra de estilo medieval conocido como “el edificio de Harry Potter” se oculta el bullicioso campus universitario de la NTU, la Universidad Noruega de Ciencias y Tecnología en Trondheim. Prestigiosa como pocas, su gran atractivo y la calidad de su educación atraen cada año a miles de ingenieros, científicos e investigadores dispuestos a hacer el último gran descubrimiento.</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.400677,63.419374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ålesund kirke (2)</name>
+    <description>c/ Aspergata---Se encuentra a unos 1000 mts del puerto,. Es de piedra y rodeada por un pequeño parque con muchas flores. Su puerta es de madera, al igual que parte de su interior. Tiene un órgano de los mas grandes de Noruega.. Es una iglesia pequeñita y cobran la entrada (20 nok --> 2 euros y pico), pero merece la pena. A la izquierda , en la entrada, está la información sobre la iglesia en todos los idiomas La iglesia está cerrada usualmente los lunes y sábados, a menos que haya un barco de cruceros en la ciudad. Cuenta con unos muy lindos vitrales Los situados detrás del Organo fueron regalo del Kaiser  Guillermo II de Alemania. La original iglesia se daño severamente en el gran incendio de 1904. La actual iglesia fue construida en 1909 y fue diseñado por el arquitecto noruego Sverre Knudsen en un estilo románico . Las paredes son de mármol noruego y la iglesia tiene capacidad para 850 personas. En el verano la iglesia está abierta para los visitantes de 10 am a 2 pm. Está situado a sólo 10 minutos a pie del centro de la ciudad</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>6.1457912,62.471152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Canal Bronsudet (3)</name>
+    <description>CANAL BROSUNDET, con el grupo de coloridas casas frente a la calle Notenesgata. En esa zona ya es posible admirar los ornamentos de sus fachadas modernistas, uno de los indiscutibles alicientes de esta bella ciudad, y de un considerable número de galerías de arte. Justo al principio del canal se encuentra el pequeño puerto pesquero y de ferries, un buen punto de observación del Fiskerimuseet y de algunas de las casas de madera que aún perduran en Alesund </description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>6.1529523,62.472055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mirador Fjellstua- Monte. Aksla (1)</name>
+    <description>Son 418 escalones- preciosa vistas.Hay un tren turístico que sube hasta arriba..
+Departure: Dronning Sonjas Plass 11/6-18/8: Mon.-Sat. at 11, 12.30, 14 and
+15.30. Duration: Approx. 1 hour and 10 minutes. Prices: Adults NOK 130</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>6.1647906,62.474654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Olden Waterfall- Principio ruta Sendero al Glaciar Briksdal</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>6.8103366,61.81817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Glacier View</name>
+    <description>GLACIAL BRIKSDAL
+El autobús sale de Stryn a las 9,45h y llega a Briksdalsbre  Fjellstove lodge , a las 10,45 h . 
+La vuelta sale a las 13,30 h y llega a Stryn a las 14,45 h
+
+El glaciar de Briksdalbreen, esta situado a 2h de Olden y al que accedemos por un sinuoso camino a través de hermosos valles y prados. Para llegar hasta allí podréis alquilar un carro o pasear a pie. El sendero es accesible a todos y las indicaciones os permiten orientaros muy fácilmente. De un azul característico, el glaciar de Briksdalbreen no defraudará a sus visitantes. Famoso por las impresionantes formaciones talladas con cuchillo, el GLACIAR DE BRIKSDALBREEN también se puede descubrir con una tranquila excursión en barco hinchable . Es uno de los brazos del glacial principal Jostedal.
+
+Desde STRYNG se va al GLACIAL  JOSTEDALBREEN , el más extenso de Europa continental, de 487 Km2.El punto más alto está a 2018 m.y el más bajo , a 350 m.Longitud de algo mas de 60 km y en algunos puntos la nieve alcanza un espesor de más de 600 m..Esta en el Parque Nacional de Jostedalbreen,; dicho parque ocupa una extensión del triple del glacial.Tiene muchos brazos accesorios , como el de Brikdalsbreen, en Olden, el Boyabreen, en Fjaerland; el Kjenndalsbreen , en Loen. 
+Surgió hace unos 500 a.C debido a un enfriamiento del clima, por lo que no es un vestigio de la ultima edad de hielo hace 12000 años. Desde 1750 se observa una disminución constante del hielo. En 2006 el brazo 
+
+Briksdalbreen perdió 50 m en unos meses.Otros indican 146 m, que ponen en aviso del peligro que supondría la separación de este brazo del hielo superior.Por este motivo el montañismo en la zona ha sido prohibido.
+La pequeña ruta de senderismo que sube hasta la lengua del glaciar empieza en un valle rodeado de montañas y cataratas que se divisan a lo lejos. A medida que subes verás rápidos, pasarás por un puente salpicado por una gran cascada y llegarás al lago que forma el deshielo del glaciar con la espectacular lengua al fondo. Si bonita son las fotos, la realidad las supera. Después de un agradable paseo en bus nos dejan en el inicio del sendero, diciéndonos tenéis dos horas, que la subida y la bajada son 45 minutos aproximadamente (real, porque aunque estés en forma te tienes que parar a asimilar las vistas y hacer fotos)</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>6.8002622,61.755428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name><![CDATA[Stryn & Nordfjord Tourist Information]]></name>
+    <description>En las tierras que bordean el Nordfjord, los restaurantes de Olden-STRYN os ofrecen una muestra de deliciosos platos típicos de la cocina noruega . Aquí, la tradición campesina es el orgullo de la zona. Durante vuestra escala de crucero por Olden, probad el lefse, el pan plano de fabricación familiar que se ofrece siempre como acompañamiento. La sidra que se vende en la mayoría de tiendas también es una delicia para el paladar, y las montañas y prados de los alrededores producen una amplia variedad de bayas y frutas. La carne de cabra es también popular entre los locales, preparada en guisos, cocida o secada antes de salarse. Os aconsejamos probar: los productos lácteos de producción local, el pan hecho en hornos de leña o el "svele" y el pescado seco.</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>6.7229744,61.90283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mercadillo</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.396517,63.430236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ladestien</name>
+    <TimeStamp><when>2016-05-30T09:15:00Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.500009,63.435563</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Iglesia Nuestra Señora</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.39816,63.430172</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mercado De Pescado. Ravnkloa</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.392231,63.43366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>KIWI</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>6.1667178,62.470971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Estacion Autobuses</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>6.1575486,62.471215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kiwi</name>
+    <TimeStamp><when>2016-06-01T14:15:43Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>6.1544855,62.471566</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Kiwi</name>
+    <TimeStamp><when>2016-06-01T14:22:45Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.3277563,60.393401</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Kiwi</name>
+    <TimeStamp><when>2016-06-01T14:26:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.3190887,59.410341</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Kiwi</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>6.7196994,61.90307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Estación de autobuses</name>
+    <TimeStamp><when>2016-06-01T14:29:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>6.7134928,61.9028</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Kiwi</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>7.6821484,62.558846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Kiwi</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>10.394286,63.432982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Haraldshaugen--Monumento Y Vistas</name>
+    <description>El monumento fue erigido durante la celebración milenial de la unificación de Noruega en un solo reino bajo el mando del Rey Harald I de Noruega
+El monumento consta de un gran montículo rodeado por piedras de granito conmemorativas con 29 piedras más pequeñas, una por cada uno de los condados históricos de Noruega. En la parte superior del montículo está el obelisco principal de 17 metros en granito, con cuatro tableros de bronce alrededor de la base. Cada tablero describe escenas importantes de la vida del rey Harald I.[4]
+
+Haraldshaugen conmemora la Batalla de Hafrsfjord la cual generalmente se fecha en el año 872. La Batalla de Hafrsfjord tradicionalmente ha sido considerada como el momento en el cual Noruega occidental fue por primera vez unificado bajo un monarca. Haraldshaugen ha sido identificado con el sitio de entierro del rey Harald I, quién murió alrededor de 933 en Avaldsnes, cerca a Karmøy, al sur de Haugesund.[</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.2587511,59.429038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Rema 1000</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>10.39435,63.429942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>TRONDHEIM</name>
+    <description>Trondheim está situada junto a un gran fiordo, el Tronheimsfjorden, en la costa central noruega. La traducción de su nombre significa “donde se vive bien”  Esta histórica ciudad cuenta con dos de las grandes atracciones turísticas de Noruega, una junto a la otra: la Catedral de Nidaros, a la que se acercan miles de peregrinos todos los años, y el Palacio del Arzobispo. Puedes optar por un divertido día explorando los distintos barrios en autocar y tranvía, viendo las casas de madera de colores vivos que son típicas de esta zona de Noruega.
+Trondheim fue fundada por el rey vikingo Olav Tryggvason, en el año 997 d. C., en la desembocadura del río Nid, en el centro geográfico del país. Durante un tiempo, fue la capital de Noruega, pero a día de hoy, es la tercera ciudad más habitada de este país nórdico.
+Trondheim es la segunda ciudad universitaria más importante de Noruega, lo que dota a sus calles de un marcado carácter juvenil con una amplia oferta de ocio. El 80% de los ingenieros noruegos se gradúan por la NTNU (Universidad de Trondheim), pero también son muy conocidas sus facultades de Psicología, Antropología y Medicina.
+Si hay algo que caracteriza Trondheim en el siglo XXI es su afición a internet; de hecho tiene una de las tasas de penetración de internet más altas del mundo, propiciada por su universidad e importantes empresas de ese sector ubicadas en la ciudad.</description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>10.395324,63.430219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Førde</name>
+    <TimeStamp><when>2016-06-06T06:44:46Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>5.85728,61.452136</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>9</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Pizzeria Il Forno</name>
+    <description>Smedasundet,91- cerca cruce con c/ Torgatta</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.2681348,59.411953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ica Karmsundgaten</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.2893739,59.402592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Flotmyr bussterminal</name>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>5.2745708,59.416292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cementerio</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.7367006,58.964962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pizzeria Il Forno</name>
+    <description>Smedasundet,91- cerca cruce con c/ Torgatta</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.2681348,59.411953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Stavanger</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.7401647,58.972281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fiskepiren</name>
+    <TimeStamp><when>2016-06-08T17:32:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.7409426,58.971568</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>18</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Carretera Panoramica Con Vistas Del Valle Y Cataratas</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>6.6840689,60.838125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cafe Magdalena</name>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>5.3313102,60.392015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Førde</name>
+    <TimeStamp><when>2016-06-06T06:44:46Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>5.85728,61.452136</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>9</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bergen Busstasjon</name>
+    <TimeStamp><when>2016-06-06T05:52:32Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>5.3347488,60.387367</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>TRONDHEIM</name>
+    <description>Trondheim está situada junto a un gran fiordo, el Tronheimsfjorden, en la costa central noruega. La traducción de su nombre significa “donde se vive bien”  Esta histórica ciudad cuenta con dos de las grandes atracciones turísticas de Noruega, una junto a la otra: la Catedral de Nidaros, a la que se acercan miles de peregrinos todos los años, y el Palacio del Arzobispo. Puedes optar por un divertido día explorando los distintos barrios en autocar y tranvía, viendo las casas de madera de colores vivos que son típicas de esta zona de Noruega.
+Trondheim fue fundada por el rey vikingo Olav Tryggvason, en el año 997 d. C., en la desembocadura del río Nid, en el centro geográfico del país. Durante un tiempo, fue la capital de Noruega, pero a día de hoy, es la tercera ciudad más habitada de este país nórdico.
+Trondheim es la segunda ciudad universitaria más importante de Noruega, lo que dota a sus calles de un marcado carácter juvenil con una amplia oferta de ocio. El 80% de los ingenieros noruegos se gradúan por la NTNU (Universidad de Trondheim), pero también son muy conocidas sus facultades de Psicología, Antropología y Medicina.
+Si hay algo que caracteriza Trondheim en el siglo XXI es su afición a internet; de hecho tiene una de las tasas de penetración de internet más altas del mundo, propiciada por su universidad e importantes empresas de ese sector ubicadas en la ciudad.</description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>10.395324,63.430219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Rema 1000</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>10.39435,63.429942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Byparken</name>
+    <TimeStamp><when>2016-06-01T15:28:14Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.2642952,59.417491</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Iglesia Var Brersel Kirke</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.2689945,59.414133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Haugesund Rådhus</name>
+    <TimeStamp><when>2016-06-01T15:17:28Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.2755498,59.410218</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Calle Haraldsgata</name>
+    <description>pasear</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.2696294,59.412574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Haraldshaugen--Monumento Y Vistas</name>
+    <description>El monumento fue erigido durante la celebración milenial de la unificación de Noruega en un solo reino bajo el mando del Rey Harald I de Noruega
+El monumento consta de un gran montículo rodeado por piedras de granito conmemorativas con 29 piedras más pequeñas, una por cada uno de los condados históricos de Noruega. En la parte superior del montículo está el obelisco principal de 17 metros en granito, con cuatro tableros de bronce alrededor de la base. Cada tablero describe escenas importantes de la vida del rey Harald I.[4]
+
+Haraldshaugen conmemora la Batalla de Hafrsfjord la cual generalmente se fecha en el año 872. La Batalla de Hafrsfjord tradicionalmente ha sido considerada como el momento en el cual Noruega occidental fue por primera vez unificado bajo un monarca. Haraldshaugen ha sido identificado con el sitio de entierro del rey Harald I, quién murió alrededor de 933 en Avaldsnes, cerca a Karmøy, al sur de Haugesund.[</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.2587511,59.429038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Steinsfjellet</name>
+    <TimeStamp><when>2016-06-01T14:57:03Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3289552,59.422502</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Parque Djupadalen</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3021417,59.42024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Kiwi</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>10.394286,63.432982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Kiwi</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>7.6821484,62.558846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Estación de autobuses</name>
+    <TimeStamp><when>2016-06-01T14:29:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>6.7134928,61.9028</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Kiwi</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>6.7196994,61.90307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kiwi</name>
+    <TimeStamp><when>2016-06-01T14:26:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.3190887,59.410341</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Kiwi Lervig</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.7616385,58.96543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kiwi</name>
+    <TimeStamp><when>2016-06-01T14:24:48Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.7312303,58.966149</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Kiwi Birkebeinersenteret</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.3233092,60.400143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kiwi Vaskerelven</name>
+    <TimeStamp><when>2016-06-01T14:23:01Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.3209006,60.391612</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Kiwi</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.3277563,60.393401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kiwi</name>
+    <TimeStamp><when>2016-06-01T14:15:43Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>6.1544855,62.471566</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Estacion Autobuses</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>6.1575486,62.471215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>KIWI</name>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>6.1667178,62.470971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mercado De Pescado. Ravnkloa</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.392231,63.43366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Iglesia Nuestra Señora</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.39816,63.430172</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ladestien</name>
+    <TimeStamp><when>2016-05-30T09:15:00Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.500009,63.435563</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Mercadillo</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.396517,63.430236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Haugesund</name>
+    <description>La ciudad se halla ubicada junto a un estrecho estratégico, que permite el paso de naves sin temor a marejadas peligrosas. Anteriormente, sus aguas eran ricas en arenques, lo cual benefició el crecimiento de la ciudad. A pesar de ser una ciudad relativamente joven, el rey Harald I de Noruega vivió en Avaldsnes, muy cerca de la actual Haugesund. En décadas recientes, la ciudad y sus vecinos se han reorientado a la industria petrolera, pues el arenque ya no es tan común en la zona.
+Haugesund es un centro cultural para la región, siendo sede de varios festivales, como el Festival Internacional de Cine Noruego y el Sildajazz, que reúne a unas 70 bandas de jazz y ofrece unos 200 conciertos</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.2636461,59.415481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Preikestolen</name>
+    <description>Aunque si de excursiones se trata, aquí está la más recomendable y excitante de cuantas pueden hacerse en Noruega. Lleva al Púlpito, singular roca colgada sobre el fiordo de Lysa. Lo habitual es tomar el transbordador que todas las mañanas suelta amarras en el puerto de Stavanger. Lleno de turistas (más de 250.000 realizan este crucero cada año), marcha hacia el norte a través de islotes desbordados de bosques nórdicos entre cuyo arbolado se asoman elegantes casas de campo.
+La roca antaño se llamaba Hyvlatonnå, algo así como el Diente Plano, aunque una de las primeras campañas de marketing realizadas para atraer turistas en los albores del siglo XX, le puso el nombre con el que hoy se conoce en todo el mundo: Preikestolen, El Púlpito. El soberbio mirador, una roca cúbica que cuelga 604 metros sobre las aguas del fiordo de Lyse, es la imagen más reconocible de Noruega y una de las más conocidas del mundo.
+Naturaleza con mayúsculas, el Púlpito es uno de ese puñado de lugares privilegiados que hay que visitar antes de dejar este mundo. Su plana superficie similar a la de una cancha de baloncesto atrae a los amantes de los viajes extraordinarios y a los coleccionistas de los lugares extravagantes. Los noruegos lo tienen claro: el Preikestolen es el más extraordinario mirador del planeta y existe una tradición tácita por la cual todos los hijos de Odín deben subir a la roca por lo menos una vez en su vida.
+La singular roca se adelanta al borde de la pared y parece sorprendentemente acuñada. Cuando se la ve de cerca, la inquietud aumenta al comprobar como está cruzada por una enorme grieta que, de inmediato uno imagina, se abrirá en cualquier momento, precipitándo al Púlpito a las aguas del Lysefjord, que aguardan 604 metros más abajo
+  
+El más aterrador de los corredores
+Para llegar al Púlpito lo habitual es embarcarse en Stavanger en alguno de los cruceros que cada día parten hacia el fiordo de Lysafjorn. Significa Fiordo de la Luz, nombre que se corresponde con el brillo que desprenden las paredes de brioso granito entre las que se abre paso este dedo de agua. La recomendable travesía dura un par de horas en las que cuando se emboca el Lysefjorn se da la razón a Victor Hugo, temprano viajero que visitó estos lugares considerándolos "el más aterrador de todos los corredores". Y eso que no subió al Púlpito.
+En la singladura el capitán tiene tiempo de amorrar su barco bajo la cascada de Hengjanefossen. 
+El desembarco en Tau permite coger el autobús que lleva a Preikestolhytta, donde se inicia la marcha que por un hechizante paisaje nórdico de montañas lleva hasta la cumbre del Púlpito. Ya en lo alto, la fuerza de la roca impresiona a los visitantes que, colgados seiscientos metros sobre el inquietante fiordo, se agarran al último pasamanos, tocan la roca o se sientan al tiempo y enmudecen.
+
+Hasta el pasado octubre no hubo ningún accidente en el Púlpito. Aquel mes se produjo la primera víctima al caer al fiordo un turista español, en un suceso del que se desconocen con exactitud las circunstancias. El luctuoso hecho arreció las críticas por la falta de cualquier barrera o protección al borde del precipios. "La naturaleza es algo que no se puede cercar en este país", contestan impertérritas las autoridades.
+Cuando estás en la roca, el hechizo del vacío se hace irresistible y no asomarse al precipicio se convierte en misión imposible. Con la sangre helada en las venas, uno da tímidos pasos, se aproxima un poco más con infinitas precauciones a cuatro patas para finalmente repta para exponer al reino del vértigo lo menos que puede de su anatomía: justo hasta la línea de los ojos. Tras una rápida retirada del borde y un último vistazo al impresionante panorama, se emprende el regreso, los primeros cientos de metros, con toda la precaución posible y sin asomarse mucho al vacío.
+ </description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>6.1886542,58.986405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Flåm</name>
+    <description>Tu barco recorrerá el fiordo en dirección sur hasta el extremo sur del Aurlandsfjord. 
+
+En este agreste y remoto lugar los medios de transporte se integran perfectamente en la espectacular naturaleza noruega, incluidos algunos tan modernos como el tren. Sube al tren que va de Flaam a Kjosfossen y disfruta de 20 increíbles kilómetros dentro de vagones de color verde hasta la estación de Myrdal, en la línea de Bergen. 
+
+Durante el camino podrás admirar paisajes realmente únicos que harán el viaje inolvidable. La naturaleza te mostrará su lado más único y salvaje, con rocas moldeadas por ríos que forman gargantas y barrancos, vertiginosas cascadas y, esparcidas por el campo, granjas construidas en las laderas de las montañas con varios tipos de ganado y excelentes quesos. 
+
+Además, el propio tren funciona gracias a la naturaleza local: la imponente cascada de Kjosfossen, con su caída prácticamente vertical digna de las mejores postales, mueve las turbinas que producen la energía eléctrica del tren. No debes perderte las excursiones en lancha neumática o kayak por las aguas que rodean el pequeño puerto. 
+
+Allí podrás admirar la gran variedad de animales y plantas que habitan en sus orillas. También podrás visitar las áreas protegidas de los fiordos  Aurlandfjord y el Nærøyfjord ,para admirar desde un mirador privilegiado la majestuosa belleza producida por la actividad del hielo y el mar en estas tierras</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>7.1102773,60.861781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name><![CDATA[Stryn & Nordfjord Tourist Information]]></name>
+    <description>En las tierras que bordean el Nordfjord, los restaurantes de Olden-STRYN os ofrecen una muestra de deliciosos platos típicos de la cocina noruega . Aquí, la tradición campesina es el orgullo de la zona. Durante vuestra escala de crucero por Olden, probad el lefse, el pan plano de fabricación familiar que se ofrece siempre como acompañamiento. La sidra que se vende en la mayoría de tiendas también es una delicia para el paladar, y las montañas y prados de los alrededores producen una amplia variedad de bayas y frutas. La carne de cabra es también popular entre los locales, preparada en guisos, cocida o secada antes de salarse. Os aconsejamos probar: los productos lácteos de producción local, el pan hecho en hornos de leña o el "svele" y el pescado seco.</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>6.7229744,61.90283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chocolateria. Sjokoladepiken</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.732279,58.97132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kirkegata</name>
+    <TimeStamp><when>2016-05-03T16:12:37Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.732274,58.972291</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>C/Øvre Holmegate</name>
+    <description>pasear</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.7331715,58.972697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Vista panorámica</name>
+    <TimeStamp><when>2016-05-03T15:57:57Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3316079,60.411197</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Vista panorámica</name>
+    <TimeStamp><when>2016-05-03T15:57:52Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3393649,60.414578</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Storevatnet</name>
+    <TimeStamp><when>2016-05-03T15:57:42Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3413457,60.411893</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Vista panorámica</name>
+    <TimeStamp><when>2016-05-03T15:57:18Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3601547,60.407044</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Brushytten</name>
+    <TimeStamp><when>2016-05-03T15:57:06Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3596853,60.400585</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Skomakerdiket</name>
+    <TimeStamp><when>2016-05-03T15:56:55Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3524916,60.394921</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>14</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Monte. Fløyen (5)</name>
+    <description>El monte Fløyen es la principal atracción turística de Bergen por su facilidad de acceso, ya que está unido con el puerto por un funicular que sale cada 15 minutos, tarda entre 5 y 8 minutos en subir los 320 metros de desnivel, y funciona hasta medianoche en verano. en la estación del Floibanen, el ticket ida y vuelta cuesta 70 NOK-abierto de 7,30h a 23,00 h-También se puede subir a pie desde la ciudad, y gran parte del monte es un gigantesco parque lleno de senderos,
+
+En la cima a donde llega el funicular hay un centro de visitantes y una zona de mirador que abarca unas vistas increíbles de la ciudad
+Desde el Monte Floyen se pueden hacer un buen número de rutas de Senderismo. En apenas unos minutos y por camino cómodo y bien acondicionado podemos llegar al Lago Skomakerdiket o hacer rutas más largas, ya que hay muchas posibilidades.
+Ruta :</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3428491,60.394562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mariakirken- Iglesia Santa Maria (4)</name>
+    <description>La Iglesia de Santa María es el edificio más antiguo de Bergen, con alguna de sus partes construidas alrededor del año 1130. Fue la iglesia de los comerciantes hanseáticos desde 1408 hasta 1766.</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3233508,60.398922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bryggens Museum</name>
+    <TimeStamp><when>2016-05-03T15:06:00Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3225314,60.39833</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Fortaleza. Bergenhus (2)</name>
+    <description>Uno de los principales atractivos de la ciudad es sin duda su fortaleza conocida como BERGENHUS ubicada justo en la entrada al puerto y es hoy dia uno de los castillos mejor conservados del país.Lo componen varias estructuras , de las cuales siendo las mas antiguas del siglo XIII y las ultimas , de la 2ª Guerra Mundial. De su origen en la edad Media solo queda en pie el salón de Haakon y la torre defensiva llamada Torre Rosenkrantz, uno de los edificios renacentistas. Fue residencia a finales del siglo XIII del rey Erik Magnuson hasta su muerte ;luego con el reinado de Haaken II la corte se traslado a Oslo y la fama del castillo decayó. La torre se llamó asi en honor a Erik Rosenkrantz, que fue gobernador de la ciudad en el siglo XVI. Aunque fue construida siglos antes, la torre tal como se conserva ahora es del siglo XVI. Se construyeron calabozos en el sotano y cámaras residenciales en los pisos superiores. En 1966 la torre abrió sus puertas como MUSEO.Actualmente se ofrecen visitas guiadas durante 1 hora.Buenas vistas desde lo alto de la torre.
+Junto a la Sala de Haakon hay un paredón enorme que levantaron los nazis y que los noruegos han sabido convertir en un parque en honor de las víctimas, sin tener que destruirlo</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.31861,60.399329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fish Market(1)</name>
+    <description>Esta es una visita imprescindible y muy agradable. En el puerto se encuentran situados numerosos puesto de venta de salmón ahumado y marinado, con especias y sin ellas, carne de ballena y de alce, en fin, todo tipo de comidas exóticas y riquísimas que pueden resolvernos perfectamente el asunto de los regalos a la familia.</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3234701,60.394808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Barrio BRYGGEN (3)</name>
+    <description>Bryggen era el barrio de los comerciantes de la Liga Hanseática, establecidos allí en 1360. A lo largo de la historia, Bryggen, con sus edificios de madera, ha sufrido varios incendios; hoy en día, la cuarta parte de los edificios datan de después del incendio de 1702; el resto son más recientes. Se conservan algunos sótanos de piedra que se remontan al siglo XV. Tras el incendio de 1955, en la zona afectada se construyó un museo y varias casas de madera en el estilo antiguo; también se edificó un hotel de ladrillo muy controvertido. En la actualidad, Bryggen es una zona eminentemente turística, con numerosos restaurantes y tiendas de todo tipo. Debido a la acción del tiempo en los edificios históricos de madera, a partir de 2008 se lleva a cabo un proceso de restauración para evitar el posterior deterioro estructural.
+Bryggen es el único barrio comercial que se conserva del periodo hanseático. Se sitúa en la orilla oriental del fiordo donde se asienta la ciudad, y antiguamente las casas se asomaban directamente al mar. Allí, los barcos comerciales descargaban sus mercancías (fundamentalmente pescado) en estas casas que funcionaban como almacén y residencia y en las que solo podían habitar hombres. La razón de esta "exclusividad" masculina era sencilla (al menos a los ojos de aquella época). La importancia histórica de Bergen proviene de su pertenencia a la Liga Hanseática, una federación comercial y defensiva de ciudades portuarias de buena parte del norte de Europa. "Hansa" significa "gremio" y tuvo antecedentes en la época vikinga, pasando a cobrar importancia en la Edad Media.
+A partir del siglo XIII Bergen fue una de las ciudades más importantes de esta Liga, y el barrio de Bryggen fue habitado sobre todo por comerciantes y trabajadores alemanes. Si estos hombres traían consigo a sus familias, pronto el número de extranjeros superaría los habitantes de Bergen.
+Podemos hacernos una idea de cómo vivían estos hombres, porque se puede visitar una de las casas convertida en el Museo Hanseático y una casa comunal que hoy es el Museo Schøtstuene. Ambas son visitas imprescindibles, y pronto volveremos sobre ellas.
+Por desgracia, de todas las casas que componían el Bryggen se conservan muy pocas (cerca de 60 meticulosamente restauradas) debido principalmente a los incendios que asolaron la zona en varias ocasiones desde hace siglos. De estos avatares, de los orígenes del barrio y de cómo vivían en la Edad Media en la ciudad conocemos muchos datos en el Museo Bryggen.
+Hoy en día, la cuarta parte de los edificios datan del siglo XVIII, después de un incendio de 1702; el resto son más recientes, aunque sí se conservan sótanos de piedra del siglo XV. El último incendio fue en 1955 y en la zona afectada se construyó el Museo Bryggen y varias casas de madera en el estilo antiguo.
+Tras esa fecha se descubrieron distintos niveles de asentamientos y estructuras de casas antiguas enterradas, desde el siglo XII al XVIII.
+El barrio debe su fisonomía a los colonos alemanes, que edificaron casas estrechas normalmente de tres plantas (y sótano) entre calles igualmente estrechas y paralelas al muelle. Hay patios ("gards") que son comunes a varias casas de madera Las distintas restauraciones del barrio se han llevado a cabo siguiendo técnicas tradicionales, y si nos fijamos en las vigas veremos que son troncos de árbol con la curvatura de la raíz hacia arriba para hacer de soporte. Los mismos troncos que se utilizaban para dar estructura a los barcos
+Bryggen fue declarado Patrimonio de la Humanidad por la Unesco en 1979.1</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3246342,60.398104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Glacier View</name>
+    <description>GLACIAL BRIKSDAL
+El autobús sale de Stryn a las 9,45h y llega a Briksdalsbre  Fjellstove lodge , a las 10,45 h . 
+La vuelta sale a las 13,30 h y llega a Stryn a las 14,45 h
+
+El glaciar de Briksdalbreen, esta situado a 2h de Olden y al que accedemos por un sinuoso camino a través de hermosos valles y prados. Para llegar hasta allí podréis alquilar un carro o pasear a pie. El sendero es accesible a todos y las indicaciones os permiten orientaros muy fácilmente. De un azul característico, el glaciar de Briksdalbreen no defraudará a sus visitantes. Famoso por las impresionantes formaciones talladas con cuchillo, el GLACIAR DE BRIKSDALBREEN también se puede descubrir con una tranquila excursión en barco hinchable . Es uno de los brazos del glacial principal Jostedal.
+
+Desde STRYNG se va al GLACIAL  JOSTEDALBREEN , el más extenso de Europa continental, de 487 Km2.El punto más alto está a 2018 m.y el más bajo , a 350 m.Longitud de algo mas de 60 km y en algunos puntos la nieve alcanza un espesor de más de 600 m..Esta en el Parque Nacional de Jostedalbreen,; dicho parque ocupa una extensión del triple del glacial.Tiene muchos brazos accesorios , como el de Brikdalsbreen, en Olden, el Boyabreen, en Fjaerland; el Kjenndalsbreen , en Loen. 
+Surgió hace unos 500 a.C debido a un enfriamiento del clima, por lo que no es un vestigio de la ultima edad de hielo hace 12000 años. Desde 1750 se observa una disminución constante del hielo. En 2006 el brazo 
+
+Briksdalbreen perdió 50 m en unos meses.Otros indican 146 m, que ponen en aviso del peligro que supondría la separación de este brazo del hielo superior.Por este motivo el montañismo en la zona ha sido prohibido.
+La pequeña ruta de senderismo que sube hasta la lengua del glaciar empieza en un valle rodeado de montañas y cataratas que se divisan a lo lejos. A medida que subes verás rápidos, pasarás por un puente salpicado por una gran cascada y llegarás al lago que forma el deshielo del glaciar con la espectacular lengua al fondo. Si bonita son las fotos, la realidad las supera. Después de un agradable paseo en bus nos dejan en el inicio del sendero, diciéndonos tenéis dos horas, que la subida y la bajada son 45 minutos aproximadamente (real, porque aunque estés en forma te tienes que parar a asimilar las vistas y hacer fotos)</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>6.8002622,61.755428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Olden Waterfall- Principio ruta Sendero al Glaciar Briksdal</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>6.8103366,61.81817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mirador Fjellstua- Monte. Aksla (1)</name>
+    <description>Son 418 escalones- preciosa vistas.Hay un tren turístico que sube hasta arriba..
+Departure: Dronning Sonjas Plass 11/6-18/8: Mon.-Sat. at 11, 12.30, 14 and
+15.30. Duration: Approx. 1 hour and 10 minutes. Prices: Adults NOK 130</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>6.1647906,62.474654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Canal Bronsudet (3)</name>
+    <description>CANAL BROSUNDET, con el grupo de coloridas casas frente a la calle Notenesgata. En esa zona ya es posible admirar los ornamentos de sus fachadas modernistas, uno de los indiscutibles alicientes de esta bella ciudad, y de un considerable número de galerías de arte. Justo al principio del canal se encuentra el pequeño puerto pesquero y de ferries, un buen punto de observación del Fiskerimuseet y de algunas de las casas de madera que aún perduran en Alesund </description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>6.1529523,62.472055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ålesund kirke (2)</name>
+    <description>c/ Aspergata---Se encuentra a unos 1000 mts del puerto,. Es de piedra y rodeada por un pequeño parque con muchas flores. Su puerta es de madera, al igual que parte de su interior. Tiene un órgano de los mas grandes de Noruega.. Es una iglesia pequeñita y cobran la entrada (20 nok --> 2 euros y pico), pero merece la pena. A la izquierda , en la entrada, está la información sobre la iglesia en todos los idiomas La iglesia está cerrada usualmente los lunes y sábados, a menos que haya un barco de cruceros en la ciudad. Cuenta con unos muy lindos vitrales Los situados detrás del Organo fueron regalo del Kaiser  Guillermo II de Alemania. La original iglesia se daño severamente en el gran incendio de 1904. La actual iglesia fue construida en 1909 y fue diseñado por el arquitecto noruego Sverre Knudsen en un estilo románico . Las paredes son de mármol noruego y la iglesia tiene capacidad para 850 personas. En el verano la iglesia está abierta para los visitantes de 10 am a 2 pm. Está situado a sólo 10 minutos a pie del centro de la ciudad</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>6.1457912,62.471152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>UNIVERSIDAD DE TRONDHEIM (14)</name>
+    <description>Detrás de un imponente edifico de piedra de estilo medieval conocido como “el edificio de Harry Potter” se oculta el bullicioso campus universitario de la NTU, la Universidad Noruega de Ciencias y Tecnología en Trondheim. Prestigiosa como pocas, su gran atractivo y la calidad de su educación atraen cada año a miles de ingenieros, científicos e investigadores dispuestos a hacer el último gran descubrimiento.</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.400677,63.419374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>ISLA.  Munkholmen (13)</name>
+    <description>Es Munkholmen, un verdadero remanso de paz al que se llega en ferry de mayo a principios de septiembre</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.382513,63.450951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sverresborg Trøndelag Folkemuseum (MUSEO ARTE FOLKLORICO) (12)</name>
+    <description>Los amantes de la historia deberían escaparse un poco a las afueras de Trondheim para perderse en el interesante museo al aire libre que está alrededor de las ruinas del castillo medieval del rey Sverre, en Sverresbord. Es el más grande de este tipo de toda Noruega y te permitirá conocer de primera mano un buen número de construcciones típicas y tradicionales de la región de Trondelag</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.358907,63.419198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>CASTILLO.  Kristiansten festning (11)</name>
+    <description>Si eres uno de esos viajeros a los que les gusta disfrutar de las vistas, te recomendamos que cuando visites Trondheim subas hasta la Fortaleza de Kristiansten y alucines. No te dejes engañar por el austero exterior de esta fortificación construida en 1681… Dentro te espera un interesante museo sobre la historia de la región, una zona verde con unas vistas incomparables y muchos rincones para explorar.</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.411063,63.426866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Barrio NEDRE ELVEHAVN (10)</name>
+    <description>El barrio de Nedre Elvehavn en Trondheim hará las delicias de los amantes de la buena comida y de las compras… y también de los amantes de la cerveza artesanal, ya que hay muchos sitios para catarla aquí. Esta zona de edificios industriales de ladrillo se ha reconvertido en un núcleo de tendencia que atrae a los más creativos de la ciudad. Siéntate en una terracita, callejea y no te vayas sin catar más de un plato.</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.41906,63.436824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Barrio BAKKLANDET (9)</name>
+    <description>Las casas de madera de colores con flores en las ventanas de Bakklandet te llamará la atención en cuanto pongas un pie en Trondheim. Conocida como la ciudad antigua, este rincón cuqui está lleno de edificios pintorescos, cafeterías acogedoras, buenos restaurantes y tiendas monísimas. Tiene un montón de vida… y cuando la veas por ti mismo/a entenderás por qué. Tómate tu tiempo y disfruta del aire relajado que flota en el ambiente. ¡Ah! Y si te atreves prueba el famoso “ascensor” para bicicletas que hay en Trondheim y que te dejará cerca de la fortaleza de Kristiansten.
+Posiblemente los coloridos almacenes de madera que se levantan a orillas del río Nidelva son una de las estampas más conocidas de Trondheim y algo que no deberías perderte. La mayoría de estos edificios son delsiglo XVIII y pasear entre ellos es un verdadero placer. Están un poco por todas partes y su estado de conservación es fantástico porque se siguen usando tanto para usos comerciales (restaurantes, tiendas) como para uso residencial.</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.404883,63.430306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Plaza Torvet (8)</name>
+    <description>En Torvet, una de las principales plazas de Trondhein, se erige una ESCULTURA DE ERIKSSON en honor a todos aquellos emigrantes noruegos que partieron rumbo al nuevo mundo.</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.395109,63.43044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>RESIDENCIA REAL -Stiftsgården (7)</name>
+    <description>la sencilla residencia real que hoy todavía usa la monarquía noruega cuando visita Trondheim.</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.394981,63.43165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pasear. por. Munkegata (6)</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.394572,63.431435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pasear por Nordre gate (5)</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.397593,63.431547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pasear.por. Søndre gate (4)</name>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.400189,63.431913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>PALACIO DEL ARZOBISPO (2)</name>
+    <description>Justo al lado de la catedral, en un edificio que se oculta tras una fachada rústica y vetusta está el Palacio del Arzobispo, uno de los complejos arquitectónicos mejore conservados de su época en toda Europa. Se construyó en la segunda mitad del siglo XII y fue la residencia del arzobispo que oficiaba en la catedral hasta mediados del siglo XV. Hoy es un museo bastante interesante donde podrás ver desde las Joyas de la Corona hasta restos arqueológicos encontrados en Trondheim.</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.395318,63.426299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Catedral Nidaros--Nidarosdomen (1)</name>
+    <description>El principal icono de Trondheim es la catedral (luterana) de Nidaros, situada en la parte meridional de la ciudad, junto al río Nid. Nidaros era el nombre con el que se conocía a Trondheim en la Edad Media.
+Esta magnífica catedral de Trondheim es una de las mejores expresiones del gótico noruego, pero tiene reminiscencias románicas. De hecho, se considera esta iglesia como la obra maestra de dicho movimiento artístico y uno de los principales monumentos de Noruega.
+En la catedral de Trondheim descansa el cuerpo de uno de los mayores santos noruegos, San Olaf, por lo que históricamente ha sido un lugar de peregrinaje de innumerables fieles de diferentes rincones de Europa.
+Devastada por varios incendios, entró en crisis con la instauración de la reforma protestante. Fue sometida a diversas y torpes restauraciones que cambiaron su aspecto con el tiempo, hasta que en el siglo XIX el gobierno noruego decidió financiar su restauración hacia su modelo original. En la actualidad, es la única iglesia en Noruega que cuenta con un respaldo financiero del erario público estatal para la conservación y restauración, a diferencia de los demás templos luteranos noruegos, cuya responsabilidad depende de fondos municipales.
+En el siglo XIX y principios del XX fue el templo donde se celebraba la coronación de los monarcas de Noruega, de acuerdo a la constitución de 1814. Después de la abolición de las ceremonias de coronación, la catedral ha sido utilizada como un lugar donde los gobernantes firman sus obligaciones constitucionales. Las joyas de la corona fueron también resguardadas en la catedral hasta 2006.
+ El material de su construcción es piedra esteatita de las inmediaciones de la localidad de Kvikne, al oriente de Trondheim.
+Los incendios castigaron la Catedral de Nidaros durante siglos. El último, en el siglo XVIII, dejó en pie sólo los muros exteriores. La reforma necesaria comenzó en 1900 y acabó en el año 2000, con la creación de la capilla del milenio.
+El rey Olaf murió en una batalla cerca de la ciudad de Trondheim. No se trataba de un rey muy querido y eso provocó que nadie se quisiera hacer cargo de su cuerpo que acabó dentro de un ataúd que tiraron al .La leyenda cuenta que surgió un manantial de aguas curativas en el punto en que se hundió el ataúd y que un año después, lo que surgió fue el propio ataúd. No muy dados a los milagros en aquella época –alrededor de 1031– decidieron que lo mejor era volver a lanzarlo al fiordo. Cinco días después volvió a salir. Al abrir el ataúd, descubrieron que el cuerpo estaba como el primer día, piel rosada y las uñas y el pelo crecido, incluso olía a rosas. Ya era demasiado para volver a tirarlo al fiordo y cambiando por completo de actitud se procedió a sucanonización y enterramiento en un ataúd de plata. Sobre esa tumba se edificó una iglesia de madera. Poco a poco la iglesia fue creciendo hasta lo que es ahora. El estilo gótico de su fachada se debe a un viaje del obispo a Inglaterra en el que descubrió el nuevo estilo arquitectónico y queda encantado con él. A su vuelta mandó derribar gran parte de la catedral para rehacerla, dejando sólo el transepto con su estilo románico anterior. Con la reforma luterana, los reyes de Dinamarca –reyes también de Noruega en ese momento– quitaron el poder a la iglesia. El hecho de que San Olaf hubiera sido nombrado rey de Noruega a perpetuidad tampoco acababa de convencer a los daneses que sacaron sus restos del ataúd de plata, que fundieron para hacer monedas, y los enterraron en un lugar desconocido.
+En 1997 fue inaugurado el Camino del Peregrino, de 926 kilómetros de distancia, recreando la antigua vía de peregrinación establecida entre Oslo, la capital del país, y Trondheim.</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.396906,63.426918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>PUENTE VIEJO(Gamle Bybro) sobre El Rio Nidelva (3)</name>
+    <description>En la Edad Media, Trondheim se ceñía a los límites de lo que hoy es el centro de la ciudad. Y para mejorar el acceso a la Fortaleza de Kristiansten, en una colina cercana, en 1681 se levantó por primera vez un puente. El que deberías cruzar hoy es de 1861 y es conocido por los lugareños como “la puerta de la felicidad”, un nombre de lo más poético.
+Muy cerca de la zona de almacenes encontramos el Puente Viejo. Fue levantado en 1681 para dar paso al fuerte de Kristiansten y es otro de los lugares más conocidos de Trondheim. Originariamente fue construido en madera sobre pilares de piedra. En ambos extremos existían casetas de vigilancia que llevaban un estricto control sobre todo aquel que cruzaba de un lado a otro del río. Con el paso de los años la estructura se fue reforzando con materiales más resistentes como el hormigón.</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.401623,63.428201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>CENTRO COMERCIAL</name>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>10.393215,63.430037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tren Rauma Trondheim-Dombås-Andalsnes</name>
+    <description>La ruta del tren panorámico Rauma Line lo lleva por montañas pintorescas, sobre puentes impresionantes y pasa por el acantilado más alto de Europa, el Trollveggen, que se alza 1,000 metros (3.281 pies) sobre las vías. El Tren de Rauma pasará más despacio por los paisajes más impresionantes y se detendrá en el famoso puente Kylling Bru y en Trollveggen, la pared de montaña perpendicular más grande de Europa, para que puedas hacer fotos.
+El maravilloso río Rauma, de color esmeralda, te acompañará a lo largo de gran parte del recorrido. El carácter del río cambia constantemente — de pronto discurre apaciblemente entre calitas de arena blanca, como se transforma en un torrente salvaje, descendiendo en cascada entre rápidos a velocidad de vértigo. En el tren, las explicaciones se dan en noruego, inglés y alemán, y te proporcionarán un folleto completamente nuevo en el que se describen los mayores atractivos del viaje.</description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.1233744,62.074868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Åndalsnes</name>
+    <description>Åndalsnes es el centro administrativo del municipio de Rauma, en el condado de Møre og Romsdal. Åndalsnes está situado a orillas del Romsdalsfjord en la desembocadura del río Rauma, en una de las zonas más bellas de la pintoresca Noruega. La ciudad en sí no es más que una aldea, pero las montañas circundantes y los fiordos se encuentran entre los más grandes de Noruega.
+El río Rauma, famoso por sus salvajes salmones, fue uno de los primeros ríos de Noruega en atraer a los aristócratas británicos y otros extranjeros pescadores al final del siglo 19. Åndalsnes da la bienvenida a cientos de grandes cruceros a su gran puerto cada año, desde 1883.</description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>7.6891646,62.567802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Trondheim Sentralstasjon</name>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>10.401195,63.436084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Grodås</name>
+    <TimeStamp><when>2016-04-06T22:44:35Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>6.5247162,61.965883</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Thon Hotel Saga</name>
+    <description>c/Skippergata,11</description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>5.2718,59.412375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Peppes Pizza</name>
+    <TimeStamp><when>2018-02-18T11:11:22Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>10.725917,59.91042</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Peppes Pizza</name>
+    <TimeStamp><when>2018-02-18T11:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>10.73859,59.912838</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Peppes Pizza</name>
+    <TimeStamp><when>2018-02-18T11:16:25Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>10.749493,59.911399</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Peppes Pizza</name>
+    <TimeStamp><when>2018-02-18T11:16:49Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>10.750738,59.910875</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Peppes  Pizza</name>
+    <TimeStamp><when>2018-02-18T11:22:57Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>10.684324,59.920018</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Preikestolen</name>
+    <description>Aunque si de excursiones se trata, aquí está la más recomendable y excitante de cuantas pueden hacerse en Noruega. Lleva al Púlpito, singular roca colgada sobre el fiordo de Lysa. Lo habitual es tomar el transbordador que todas las mañanas suelta amarras en el puerto de Stavanger. Lleno de turistas (más de 250.000 realizan este crucero cada año), marcha hacia el norte a través de islotes desbordados de bosques nórdicos entre cuyo arbolado se asoman elegantes casas de campo.
+La roca antaño se llamaba Hyvlatonnå, algo así como el Diente Plano, aunque una de las primeras campañas de marketing realizadas para atraer turistas en los albores del siglo XX, le puso el nombre con el que hoy se conoce en todo el mundo: Preikestolen, El Púlpito. El soberbio mirador, una roca cúbica que cuelga 604 metros sobre las aguas del fiordo de Lyse, es la imagen más reconocible de Noruega y una de las más conocidas del mundo.
+Naturaleza con mayúsculas, el Púlpito es uno de ese puñado de lugares privilegiados que hay que visitar antes de dejar este mundo. Su plana superficie similar a la de una cancha de baloncesto atrae a los amantes de los viajes extraordinarios y a los coleccionistas de los lugares extravagantes. Los noruegos lo tienen claro: el Preikestolen es el más extraordinario mirador del planeta y existe una tradición tácita por la cual todos los hijos de Odín deben subir a la roca por lo menos una vez en su vida.
+La singular roca se adelanta al borde de la pared y parece sorprendentemente acuñada. Cuando se la ve de cerca, la inquietud aumenta al comprobar como está cruzada por una enorme grieta que, de inmediato uno imagina, se abrirá en cualquier momento, precipitándo al Púlpito a las aguas del Lysefjord, que aguardan 604 metros más abajo
+  
+El más aterrador de los corredores
+Para llegar al Púlpito lo habitual es embarcarse en Stavanger en alguno de los cruceros que cada día parten hacia el fiordo de Lysafjorn. Significa Fiordo de la Luz, nombre que se corresponde con el brillo que desprenden las paredes de brioso granito entre las que se abre paso este dedo de agua. La recomendable travesía dura un par de horas en las que cuando se emboca el Lysefjorn se da la razón a Victor Hugo, temprano viajero que visitó estos lugares considerándolos "el más aterrador de todos los corredores". Y eso que no subió al Púlpito.
+En la singladura el capitán tiene tiempo de amorrar su barco bajo la cascada de Hengjanefossen. 
+El desembarco en Tau permite coger el autobús que lleva a Preikestolhytta, donde se inicia la marcha que por un hechizante paisaje nórdico de montañas lleva hasta la cumbre del Púlpito. Ya en lo alto, la fuerza de la roca impresiona a los visitantes que, colgados seiscientos metros sobre el inquietante fiordo, se agarran al último pasamanos, tocan la roca o se sientan al tiempo y enmudecen.
+
+Hasta el pasado octubre no hubo ningún accidente en el Púlpito. Aquel mes se produjo la primera víctima al caer al fiordo un turista español, en un suceso del que se desconocen con exactitud las circunstancias. El luctuoso hecho arreció las críticas por la falta de cualquier barrera o protección al borde del precipios. "La naturaleza es algo que no se puede cercar en este país", contestan impertérritas las autoridades.
+Cuando estás en la roca, el hechizo del vacío se hace irresistible y no asomarse al precipicio se convierte en misión imposible. Con la sangre helada en las venas, uno da tímidos pasos, se aproxima un poco más con infinitas precauciones a cuatro patas para finalmente repta para exponer al reino del vértigo lo menos que puede de su anatomía: justo hasta la línea de los ojos. Tras una rápida retirada del borde y un último vistazo al impresionante panorama, se emprende el regreso, los primeros cientos de metros, con toda la precaución posible y sin asomarse mucho al vacío.
+ </description>
+    <TimeStamp><when>2018-02-18T11:23:50Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>6.1886542,58.986405</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>9</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Kiwi Lervig</name>
+    <TimeStamp><when>2018-02-18T11:24:23Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.7616385,58.96543</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bar Ostehuset</name>
+    <TimeStamp><when>2018-02-18T11:24:32Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.7561641,58.968375</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Cementerio</name>
+    <TimeStamp><when>2018-02-18T11:24:41Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.7367006,58.964962</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Kiwi</name>
+    <TimeStamp><when>2018-02-18T11:24:53Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.7312303,58.966149</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Kiwi</name>
+    <TimeStamp><when>2018-02-18T11:25:01Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.7307448,58.967292</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Stavanger</name>
+    <description>Érase una ciudad que encontró un inagotable filón de plata en el fondo de las aguas que la rodeaban... Bien podría iniciarse así la historia moderna de Stavanger, la ciudad que es puerta de un mundo mágico donde océano y continente se agarran las manos en ese juego de dedos de agua y tierra que llamamos fiordos.
+Fue hace algo más de un siglo cuando Stavanger encontró en los plateados arenques y sardinas el motor que la llevó desde su tranquila existencia pesquera a convertirse la cuarta urbe más importante de Noruega. Una poderosa industria se desarrolló en torno a los más populares entre todos los pescados que nadan por los mares del mundo. Hasta 400 marcas se dedicaban a comienzos del siglo XX a enlatarlos y enviarlos hasta el último rincón del planeta. En el Museo de Conservas que abre sus puertas en Gamle Stavanger, el barrio viejo de Stavanger, puede descubrirse la historia.
+Por suerte, o desgracia según se mire, para las sardinas, su reinado pasó a mejor vida. Algo que no ha preocupado a los de Stavanger, quienes cambiaron a finales de los pasados 60 su pasado enlatador al futuro tecnológico y economicista del oro negro. Hoy la ciudad es la capital noruega del petróleo.
+Todos los viernes, el tránsito de helicópteros que cambia los turnos del personal que trabaja en las plataformas situadas frente a sus costas, atruena el ambiente. A los locales les encanta el ruido; saben que en las noches del fin de semana la juerga está garantizada. Los bares y restaurantes reflejan en la rada una desbordante y ruidosa clientela, que comparten terraza con los securatas encargados de que no se presente un casi improbable disturbio, mientras un discreto control policial regula el tráfico en el entorno del puerto.
+Todo pasa al tiempo que la noche y por la mañana, la ciudad se despierta con el mismo traje que cuando era una sencilla remota marinera. Sólo el ruido que provoca el camión, eléctrico por supuesto, que vacía los contenedores de vidrio desbordados de botellas nos devuelve a la realidad.
+Las Siete Calles
+Stavanger reparte en sus llamadas Siete Calles la mayor y mejor conservada aglomeración de casas de madera de todo el Norte de Europa. Y aunque la circunstancia es remarcable, a la capital de la región de Rogalan se viene a recorrer el amplísimo estuario donde convergen varios fiordos y en el que boga el Ryfylke, archipiélago de innumerables islas de todos los tamaños
+
+Navegar por su mar calmo para tomarse unos bivalvos en el puertecillo perdido de Kvitsoy, inquietarse con el fantasma del monasterio de Utstein Kloster, y dar un paseo por las jorobas en las que se eleva la isla de Rennesoy son excursiones apetecibles.
+
+También puedes dar un paseo por la parte del casco antiguo que da al mar,. En Stavanger podrás visitar varios museos. Entre los más interesantes se encuentran uno dedicado al aceite, uno al enlatado, el Museo de Arte de Rogaland y el Museo Infantil. 
+COLUMNA ROTA
+Como alternativa, también puedes dar un paseo por los alrededores de Stavanger y explorar las 23 figuras de hierro que forman la “Columna rota”, una escultura de Antony Gormley. 
+Las formas humanas en hierro tratado con chorros de arena están basadas en un moldeado del cuerpo del artista mismo, y la distribución de las esculturas simboliza un amplio aspecto de la existencia del hombre en la ciudad. 
+
+
+Curioso recorrido escultórico por la ciudad noruega, Broken Column. Hay 23 esculturas que salpican distintos puntos de la ciudad, al aire libre, en espacios cerrados (públicos y privados) e incluso en el mar.
+"Columna rota" es un proyecto escultórico del Museo Rogaland de Bellas Artes, que es precisamente donde se encuentra la última de estas esculturas, la que representa por completo el cuerpo de un hombre de 1'95 metros de altura en el punto más alto. El cuerpo de las 23 esculturas de hierro fundido representa al del propio artista encargado del proyecto.
+El escultor Antony Gormley dedicó cuatro años a decidir dónde ubicar cada una de las esculturas. Cada figura está situada 1,95 metros más baja que la anterior (sobre el nivel del mar) y todas están orientadas en dirección oeste (la figura del mercado de pescado, mirando al mar, es la que da la orientación a todas las demás). Algunas se ven por completo, otras están semienterradas.
+El artista quiso que las esculturas representaran distintas perspectivas de Stavanger, su diversidad cultural, distintos modos de vida: del bullicio del mercado o el barrio comercial a la soledad de un cementerio, el ambiente de una escuela, de una piscina pública o la privacidad de una casa.
+Como decimos, el primer hombre de hierro está en el Museo de Bellas Artes de la ciudad, a unos 41 metros sobre el nivel del mar, mientras que la última escultura, de la que solo se ve una parte, se encuentra a 1'20 metros bajo el nivel del mar, junto a la pequeña isla en la dársena del puerto de Stavanger Natvigs Minde.
+Las figuras, instaladas en 2003, pronto fueron conocidas con el sobrenombre de "rusty iron men" ("hombres de hierro oxidados"), y sus habitantes han mostrado su gusto o rechazo con ellas de distintos modos: las han vestido, pintado y "tuneado" a lo largo de los años. De lo cual el autor dice sentirse orgulloso, ya que le gusta que su trabajo cree reacciones en el público y las personas interactúen con él: las esculturas, el arte, está más vivo de este modo. Y su razón tiene...
+
+En Hafrsfjord no debes perderte las “Tres espadas en la roca”, un monumento en honor de la batalla vikinga del año 872 d. C. capitaneada por el rey Harald I. A pocos pasos de allí se encuentra el centro científico de Jærmuseet, nombrado el “mejor museo de Noruega” en 2009. Pero la región de Stavanger es especialmente famosa por sus fiordos, entre los que destaca el Lysefjord.
+
+Probar el plato de salmon marinado con canela y azucar : GRAVLAKS</description>
+    <TimeStamp><when>2018-02-18T11:25:15Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.7324721,58.968043</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Fiskepiren</name>
+    <TimeStamp><when>2018-02-18T11:25:26Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.7409426,58.971568</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Stavanger</name>
+    <TimeStamp><when>2018-02-18T11:25:34Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.7401647,58.972281</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>McDonald's</name>
+    <description>c/Soregata,7</description>
+    <TimeStamp><when>2018-02-18T11:25:45Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.7331829,58.970876</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name><![CDATA[Døgnvill bar&burger]]></name>
+    <TimeStamp><when>2018-02-18T11:25:55Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.7319867,58.970905</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Chocolateria. Sjokoladepiken</name>
+    <TimeStamp><when>2018-02-18T11:26:04Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.732279,58.97132</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Kirkegata</name>
+    <TimeStamp><when>2018-02-18T11:26:11Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.732274,58.972291</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>C/Øvre Holmegate</name>
+    <description>pasear</description>
+    <TimeStamp><when>2018-02-18T11:26:25Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.7331715,58.972697</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Hotel Skansen</name>
+    <TimeStamp><when>2018-02-18T11:26:35Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>5.7300233,58.973188</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ica Karmsundgaten</name>
+    <TimeStamp><when>2018-02-18T11:27:19Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.2893739,59.402592</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>12</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Haugesund Rådhus</name>
+    <TimeStamp><when>2018-02-18T11:27:36Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.2755498,59.410218</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>14</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Burger King</name>
+    <TimeStamp><when>2018-02-18T11:27:44Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.2735643,59.410815</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Thon Hotel Saga</name>
+    <description>c/Skippergata,11</description>
+    <TimeStamp><when>2018-02-18T11:27:57Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>5.2718,59.412375</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Calle Haraldsgata</name>
+    <description>pasear</description>
+    <TimeStamp><when>2018-02-18T11:28:07Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.2696294,59.412574</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Iglesia Var Brersel Kirke</name>
+    <TimeStamp><when>2018-02-18T11:28:16Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.2689945,59.414133</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Pizzeria. Dolly Dimple's</name>
+    <TimeStamp><when>2018-02-18T11:28:24Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.2680637,59.414048</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Haugesund</name>
+    <description>La ciudad se halla ubicada junto a un estrecho estratégico, que permite el paso de naves sin temor a marejadas peligrosas. Anteriormente, sus aguas eran ricas en arenques, lo cual benefició el crecimiento de la ciudad. A pesar de ser una ciudad relativamente joven, el rey Harald I de Noruega vivió en Avaldsnes, muy cerca de la actual Haugesund. En décadas recientes, la ciudad y sus vecinos se han reorientado a la industria petrolera, pues el arenque ya no es tan común en la zona.
+Haugesund es un centro cultural para la región, siendo sede de varios festivales, como el Festival Internacional de Cine Noruego y el Sildajazz, que reúne a unas 70 bandas de jazz y ofrece unos 200 conciertos</description>
+    <TimeStamp><when>2018-02-18T11:28:36Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.2636461,59.415481</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Byparken</name>
+    <TimeStamp><when>2018-02-18T11:28:45Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.2642952,59.417491</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Flotmyr bussterminal</name>
+    <TimeStamp><when>2018-02-18T11:28:55Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>5.2745708,59.416292</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>14</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Parque Djupadalen</name>
+    <TimeStamp><when>2018-02-18T11:29:08Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3021417,59.42024</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Steinsfjellet</name>
+    <TimeStamp><when>2018-02-18T11:29:21Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3289552,59.422502</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>12</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bergen Busstasjon</name>
+    <TimeStamp><when>2018-02-18T11:30:54Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>5.3347488,60.387367</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Cafe Magdalena</name>
+    <TimeStamp><when>2018-02-18T11:31:05Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>5.3313102,60.392015</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>14</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>McDonald's</name>
+    <description>c/Torgallmenningen,11</description>
+    <TimeStamp><when>2018-02-18T11:31:17Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.323167,60.392487</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Kiwi Vaskerelven</name>
+    <TimeStamp><when>2018-02-18T11:31:26Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.3209006,60.391612</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Fish Market(1)</name>
+    <description>Esta es una visita imprescindible y muy agradable. En el puerto se encuentran situados numerosos puesto de venta de salmón ahumado y marinado, con especias y sin ellas, carne de ballena y de alce, en fin, todo tipo de comidas exóticas y riquísimas que pueden resolvernos perfectamente el asunto de los regalos a la familia.</description>
+    <TimeStamp><when>2018-02-18T11:31:39Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3234701,60.394808</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Kiwi Strandgaten</name>
+    <TimeStamp><when>2018-02-18T11:31:54Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.311419,60.397372</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bergen</name>
+    <description>Con alrededor de 263.000 habitantes, Bergen es la segunda ciudad más grande de Noruega, después de la capital, Oslo.
+La ciudad de Bergen fue fundada en 1070 por el rey Olav Kyrre.
+La ciudad fue capital del país en el siglo XIII hasta el cambio de siglo, aunque su situación geológica, rodeada de colinas, impide un fácil crecimiento, lo cual propició que Oslo tomara las riendas en la capitalidad.
+Como Roma, Bergen está rodeada de siete colinas ("de syv fjell"), a algunas de las cuales podemos asomarnos como a estupendos miradores, obteniendo algunas de las mejores vistas de la ciudad.
+Bergen es la base principal de la Marina Real Noruega
+Durante años existieron en la ciudad "paraply automater" o máquinas de venta de paraguas instaladas en las calles
+A pesar de la lluvia, más habitual en los meses de invierno, Bergen es una de las ciudades más templadas de Noruega por su situación geográfica.
+ 
+Bergen alcanzó su auge comercial en 1100 gracias al lucrativo negocio del bacalao seco y, a partir de entonces, se consolidó como núcleo comercial de Noruega. Su pasado histórico ha quedado reflejado en el Muelle alemán y el tradicional barrio de Bryggen, cuyos edificios y casas de madera con gablete constituyen magníficos ejemplos de la época hanseática. Los tiempos en que la zona se dedicaba al comercio de bacalao han quedado atrás y su aspecto antes tosco ha dado paso a un núcleo moderno en el que confluyen la sofisticación, el atractivo y la elegancia de restaurantes, bares y tiendas de suvenires. Sin embargo, un paseo por este barrio antiguo aún permite al viajero imaginar cómo era la vida en este lugar en la Edad Media. 
+Fue la ciudad más grande de Noruega hasta 1830. Descubriremos los almacenes de madera con gablete del barrio de Bryggen, que se remonta al periodo hanseático. También tendremos ocasión de visitar el Salón de Haakon, construido durante el reinado de Haakon Haakonsson (1247-1261) y que fue la edificación más importante del palacio real en el siglo XIII. Pasaremos por la Torre de Rosenkrantz, que fue levantada en el siglo XIII y reconstruida en torno a 1560 para hacer las veces de fortaleza y residencia. Podremos contemplar la Iglesia de Santa María, construida en el siglo XII, y el espectacular Grieghallen, el auditorio que acoge los conciertos de la Orquesta Filarmónica de Bergen</description>
+    <TimeStamp><when>2018-02-18T11:32:15Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.3258063,60.39431</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>McDonald's</name>
+    <description>c/ Bryggesporden,2</description>
+    <TimeStamp><when>2018-02-18T11:32:24Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.3265144,60.395456</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Barrio BRYGGEN (3)</name>
+    <description>Bryggen era el barrio de los comerciantes de la Liga Hanseática, establecidos allí en 1360. A lo largo de la historia, Bryggen, con sus edificios de madera, ha sufrido varios incendios; hoy en día, la cuarta parte de los edificios datan de después del incendio de 1702; el resto son más recientes. Se conservan algunos sótanos de piedra que se remontan al siglo XV. Tras el incendio de 1955, en la zona afectada se construyó un museo y varias casas de madera en el estilo antiguo; también se edificó un hotel de ladrillo muy controvertido. En la actualidad, Bryggen es una zona eminentemente turística, con numerosos restaurantes y tiendas de todo tipo. Debido a la acción del tiempo en los edificios históricos de madera, a partir de 2008 se lleva a cabo un proceso de restauración para evitar el posterior deterioro estructural.
+Bryggen es el único barrio comercial que se conserva del periodo hanseático. Se sitúa en la orilla oriental del fiordo donde se asienta la ciudad, y antiguamente las casas se asomaban directamente al mar. Allí, los barcos comerciales descargaban sus mercancías (fundamentalmente pescado) en estas casas que funcionaban como almacén y residencia y en las que solo podían habitar hombres. La razón de esta "exclusividad" masculina era sencilla (al menos a los ojos de aquella época). La importancia histórica de Bergen proviene de su pertenencia a la Liga Hanseática, una federación comercial y defensiva de ciudades portuarias de buena parte del norte de Europa. "Hansa" significa "gremio" y tuvo antecedentes en la época vikinga, pasando a cobrar importancia en la Edad Media.
+A partir del siglo XIII Bergen fue una de las ciudades más importantes de esta Liga, y el barrio de Bryggen fue habitado sobre todo por comerciantes y trabajadores alemanes. Si estos hombres traían consigo a sus familias, pronto el número de extranjeros superaría los habitantes de Bergen.
+Podemos hacernos una idea de cómo vivían estos hombres, porque se puede visitar una de las casas convertida en el Museo Hanseático y una casa comunal que hoy es el Museo Schøtstuene. Ambas son visitas imprescindibles, y pronto volveremos sobre ellas.
+Por desgracia, de todas las casas que componían el Bryggen se conservan muy pocas (cerca de 60 meticulosamente restauradas) debido principalmente a los incendios que asolaron la zona en varias ocasiones desde hace siglos. De estos avatares, de los orígenes del barrio y de cómo vivían en la Edad Media en la ciudad conocemos muchos datos en el Museo Bryggen.
+Hoy en día, la cuarta parte de los edificios datan del siglo XVIII, después de un incendio de 1702; el resto son más recientes, aunque sí se conservan sótanos de piedra del siglo XV. El último incendio fue en 1955 y en la zona afectada se construyó el Museo Bryggen y varias casas de madera en el estilo antiguo.
+Tras esa fecha se descubrieron distintos niveles de asentamientos y estructuras de casas antiguas enterradas, desde el siglo XII al XVIII.
+El barrio debe su fisonomía a los colonos alemanes, que edificaron casas estrechas normalmente de tres plantas (y sótano) entre calles igualmente estrechas y paralelas al muelle. Hay patios ("gards") que son comunes a varias casas de madera Las distintas restauraciones del barrio se han llevado a cabo siguiendo técnicas tradicionales, y si nos fijamos en las vigas veremos que son troncos de árbol con la curvatura de la raíz hacia arriba para hacer de soporte. Los mismos troncos que se utilizaban para dar estructura a los barcos
+Bryggen fue declarado Patrimonio de la Humanidad por la Unesco en 1979.1</description>
+    <TimeStamp><when>2018-02-18T11:32:39Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3246342,60.398104</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bryggens Museum</name>
+    <TimeStamp><when>2018-02-18T11:32:46Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3225314,60.39833</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Mariakirken- Iglesia Santa Maria (4)</name>
+    <description>La Iglesia de Santa María es el edificio más antiguo de Bergen, con alguna de sus partes construidas alrededor del año 1130. Fue la iglesia de los comerciantes hanseáticos desde 1408 hasta 1766.</description>
+    <TimeStamp><when>2018-02-18T11:32:55Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3233508,60.398922</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Fortaleza. Bergenhus (2)</name>
+    <description>Uno de los principales atractivos de la ciudad es sin duda su fortaleza conocida como BERGENHUS ubicada justo en la entrada al puerto y es hoy dia uno de los castillos mejor conservados del país.Lo componen varias estructuras , de las cuales siendo las mas antiguas del siglo XIII y las ultimas , de la 2ª Guerra Mundial. De su origen en la edad Media solo queda en pie el salón de Haakon y la torre defensiva llamada Torre Rosenkrantz, uno de los edificios renacentistas. Fue residencia a finales del siglo XIII del rey Erik Magnuson hasta su muerte ;luego con el reinado de Haaken II la corte se traslado a Oslo y la fama del castillo decayó. La torre se llamó asi en honor a Erik Rosenkrantz, que fue gobernador de la ciudad en el siglo XVI. Aunque fue construida siglos antes, la torre tal como se conserva ahora es del siglo XVI. Se construyeron calabozos en el sotano y cámaras residenciales en los pisos superiores. En 1966 la torre abrió sus puertas como MUSEO.Actualmente se ofrecen visitas guiadas durante 1 hora.Buenas vistas desde lo alto de la torre.
+Junto a la Sala de Haakon hay un paredón enorme que levantaron los nazis y que los noruegos han sabido convertir en un parque en honor de las víctimas, sin tener que destruirlo</description>
+    <TimeStamp><when>2018-02-18T11:33:05Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.31861,60.399329</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Kiwi Birkebeinersenteret</name>
+    <TimeStamp><when>2018-02-18T11:33:15Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>5.3233092,60.400143</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Vista panorámica</name>
+    <TimeStamp><when>2018-02-18T11:34:21Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3316079,60.411197</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Vista panorámica</name>
+    <TimeStamp><when>2018-02-18T11:34:30Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3393649,60.414578</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Storevatnet</name>
+    <TimeStamp><when>2018-02-18T11:34:37Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3413457,60.411893</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Vista panorámica</name>
+    <TimeStamp><when>2018-02-18T11:34:49Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3601547,60.407044</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>12</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Brushytten</name>
+    <TimeStamp><when>2018-02-18T11:34:58Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3596853,60.400585</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>12</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Skomakerdiket</name>
+    <TimeStamp><when>2018-02-18T11:35:08Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3524916,60.394921</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>12</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Monte. Fløyen (5)</name>
+    <description>El monte Fløyen es la principal atracción turística de Bergen por su facilidad de acceso, ya que está unido con el puerto por un funicular que sale cada 15 minutos, tarda entre 5 y 8 minutos en subir los 320 metros de desnivel, y funciona hasta medianoche en verano. en la estación del Floibanen, el ticket ida y vuelta cuesta 70 NOK-abierto de 7,30h a 23,00 h-También se puede subir a pie desde la ciudad, y gran parte del monte es un gigantesco parque lleno de senderos,
+
+En la cima a donde llega el funicular hay un centro de visitantes y una zona de mirador que abarca unas vistas increíbles de la ciudad
+Desde el Monte Floyen se pueden hacer un buen número de rutas de Senderismo. En apenas unos minutos y por camino cómodo y bien acondicionado podemos llegar al Lago Skomakerdiket o hacer rutas más largas, ya que hay muchas posibilidades.
+Ruta :</description>
+    <TimeStamp><when>2018-02-18T11:35:23Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>5.3428491,60.394562</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Carretera Panoramica Con Vistas Del Valle Y Cataratas</name>
+    <TimeStamp><when>2018-02-18T11:35:59Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>6.6840689,60.838125</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>7</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Flåm</name>
+    <description>Tu barco recorrerá el fiordo en dirección sur hasta el extremo sur del Aurlandsfjord. 
+
+En este agreste y remoto lugar los medios de transporte se integran perfectamente en la espectacular naturaleza noruega, incluidos algunos tan modernos como el tren. Sube al tren que va de Flaam a Kjosfossen y disfruta de 20 increíbles kilómetros dentro de vagones de color verde hasta la estación de Myrdal, en la línea de Bergen. 
+
+Durante el camino podrás admirar paisajes realmente únicos que harán el viaje inolvidable. La naturaleza te mostrará su lado más único y salvaje, con rocas moldeadas por ríos que forman gargantas y barrancos, vertiginosas cascadas y, esparcidas por el campo, granjas construidas en las laderas de las montañas con varios tipos de ganado y excelentes quesos. 
+
+Además, el propio tren funciona gracias a la naturaleza local: la imponente cascada de Kjosfossen, con su caída prácticamente vertical digna de las mejores postales, mueve las turbinas que producen la energía eléctrica del tren. No debes perderte las excursiones en lancha neumática o kayak por las aguas que rodean el pequeño puerto. 
+
+Allí podrás admirar la gran variedad de animales y plantas que habitan en sus orillas. También podrás visitar las áreas protegidas de los fiordos  Aurlandfjord y el Nærøyfjord ,para admirar desde un mirador privilegiado la majestuosa belleza producida por la actividad del hielo y el mar en estas tierras</description>
+    <TimeStamp><when>2018-02-18T11:36:12Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>7.1102773,60.861781</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>7</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>

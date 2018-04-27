@@ -3,6 +3,7 @@ use_frameworks!
 
 target 'Kml' do
   pod 'AEXML'
+  pod 'Zip', '~> 1.1'
 end
 
 target 'KmlTests' do

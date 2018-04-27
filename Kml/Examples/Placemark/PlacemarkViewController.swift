@@ -8,6 +8,7 @@
 
 import UIKit
 import MapKit
+import Zip
 
 // Placemark to MKAnnotation.
 class PlacemarkViewController: UIViewController {
@@ -16,8 +17,11 @@ class PlacemarkViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        Zip.addCustomFileExtension("kmz")
+        
         mapView.delegate = self
-        loadKml("sample")
+        loadKMZ("Noruega")
     }
 
     override func didReceiveMemoryWarning() {
@@ -25,9 +29,23 @@ class PlacemarkViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-    fileprivate func loadKml(_ path: String) {
-        let url = Bundle.main.url(forResource: path, withExtension: "kml")
-        KMLDocument.parse(url!, callback:
+    fileprivate func loadKMZ(_ fileName: String) {
+        let url = Bundle.main.url(forResource: fileName, withExtension: "kmz")
+        do {
+            let unzipKMLDir = try Zip.quickUnzipFile(url!) // Unzip
+            let fullKMLPath = unzipKMLDir.appendingPathComponent(fileName).appendingPathExtension("kml")
+            loadKML(path: fullKMLPath)
+        }
+        catch {
+            print(error.localizedDescription)
+            print("Something went wrong")
+        }
+        
+    }
+    
+    private func loadKML(path: URL)
+    {
+        KMLDocument.parse(path, callback:
             { [unowned self] (kml) in
                 // Add and Zoom to annotations.
                 self.mapView.showAnnotations(kml.annotations, animated: true)
